@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhx2006.github.io</id>
     <title>小x的储物间</title>
-    <updated>2026-04-12T08:47:32.016Z</updated>
+    <updated>2026-04-12T08:54:12.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhx2006.github.io"/>
     <link rel="self" href="https://zhx2006.github.io/atom.xml"/>
@@ -11,12 +11,14 @@
     <icon>https://zhx2006.github.io/favicon.ico</icon>
     <rights>All rights reserved 2026, 小x的储物间</rights>
     <entry>
-        <title type="html"><![CDATA[kaishi]]></title>
+        <title type="html"><![CDATA[Edge插件]]></title>
         <id>https://zhx2006.github.io/post/kaishi/</id>
         <link href="https://zhx2006.github.io/post/kaishi/">
         </link>
         <updated>2026-04-09T08:40:39.000Z</updated>
-        <content type="html"><![CDATA[<p>1111</p>
+        <content type="html"><![CDATA[<!-- 网页过滤工具 -->
+<p>uBlock Origin<br>
+AdGuard广告拦截器（https://pan.baidu.com/s/1Qw6o7ebprpLDn4RKmIpiFg 提取码: 3366）</p>
 ]]></content>
     </entry>
 </feed>
